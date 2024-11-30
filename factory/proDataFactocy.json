@@ -1,0 +1,9 @@
+{
+	"name": "proDataFactocy",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ad4e6430-2e8f-40b4-9c40-2c71f15a47f9",
+		"tenantId": "9b8a90ce-6afd-4ddd-9eae-15255f057683"
+	}
+}
