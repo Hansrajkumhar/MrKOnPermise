@@ -1,0 +1,45 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "proDataFactocy"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"SHIR_Pizza_password": {
+			"value": ""
+		},
+		"bronzedata_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://projectstorge.dfs.core.windows.net/"
+		},
+		"SHIR_Pizza_properties_typeProperties_server": {
+			"value": "HANSRAJ"
+		},
+		"SHIR_Pizza_properties_typeProperties_database": {
+			"value": "pizzaz"
+		},
+		"SHIR_Pizza_properties_typeProperties_userName": {
+			"value": "sa"
+		},
+		"bronzedata_properties_typeProperties_url": {
+			"value": "https://projectstorge.dfs.core.windows.net/"
+		},
+		"sharingSHIR_properties_typeProperties_linkedInfo_resourceId": {
+			"value": "/subscriptions/1884707a-007c-42a8-92b0-3b61acdc684f/resourcegroups/newDataFactory/providers/Microsoft.DataFactory/factories/newDataADF2/integrationruntimes/IRSelfhost"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
